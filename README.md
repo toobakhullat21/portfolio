@@ -6,6 +6,6 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 <br><br>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HPC-white?logo=HPC)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=Anaconda)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
 <div style="display: flex;">
-    <img src="/assets/img/Screenshot 2023-07-14 at 17.01.01.png?raw=true" alt="Image 1" style="flex: 1; margin-right: 10px;">
-    <img src="/assets/img/Screenshot 2023-07-14 at 17.01.22.png?raw=true" alt="Image 2" style="flex: 1; margin-left: 10px;">
+    <img src="/assets/img/Screenshot 2023-07-14 at 17.01.01.png?raw=true" alt="Image 1" style="width: 30%; height: auto;">
+    <img src="/assets/img/Screenshot 2023-07-14 at 17.01.22.png?raw=true" alt="Image 2" style="width: 30%; height: auto;">
 </div>
