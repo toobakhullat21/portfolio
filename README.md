@@ -31,8 +31,8 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 
 <div class="icon-row">
   <div class="icon">
-    <img src="icon1.png" alt="Icon 1">
-    <span>Text 1</span>
+    <img src="python.png" alt="Icon 1">
+    <span>Python</span>
   </div>
   <div class="icon">
     <img src="icon2.png" alt="Icon 2">
