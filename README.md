@@ -18,4 +18,4 @@ A selection of smaller projects demonstrating specific data science and ML skill
 
 <img src="assets/img/Screenshot 2023-07-15 at 16.31.35.png?raw=true" alt="Image 1" style="width: 90%; height: auto;">
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-white?logo=GitHub)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) 
