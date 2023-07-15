@@ -27,6 +27,6 @@ High blood pressure is a major issue in the USA. Nearly 50% of adults have hyper
 
 <img src="assets/img/Screenshot 2023-07-15 at 17.35.16.png?raw=true" alt="Image 1" style="width: 90%; height: auto;">
 
-[![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/ggplot2-black?logo=ggplot2)](#) 
+[![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/ggplot2-white?logo=ggplot2)](#) [![](https://img.shields.io/badge/dplyr-white?logo=dplyr)](#) [![](https://img.shields.io/badge/tidyverse-white?logo=tidyverse)](#) 
 
 
