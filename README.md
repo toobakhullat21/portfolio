@@ -20,7 +20,7 @@ A team project involving simulation of data for a cross-regional case-control st
 
 <img src="assets/img/Screenshot 2023-07-15 at 16.31.35.png?raw=true" alt="Image 1" style="width: 90%; height: auto;">
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/ggplot2-white?logo=ggplot2)](#) [![](https://img.shields.io/badge/dplyr-white?logo=dplyr)](#) [![](https://img.shields.io/badge/tidyverse-blue?logo=tidyverse)](#) 
 
 ### 2. Epidemiology and Lifestyle Determinants of High Blood Pressure in the USA
 High blood pressure is a major issue in the USA. Nearly 50% of adults have hypertension. Research is important to establish relationships between certain factors and hypertension, allowing epidemiologists to provide advice on possible ways to mitigate the issue. 
