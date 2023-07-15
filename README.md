@@ -12,11 +12,13 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 ## Identifying the health impacts of the COVID-19 pandemic
 In 2020, COVID-19 was the leading cause of death in England and Wales, accounting for 12.1% of all deaths. In this project using the UK BioBank data, I identified participants who have been diagnosed with COVID-19 and explored post-infection hospitalisation and death records summarizing the most common diagnosis. I then compared changes in the weighting of these diagnosis and changes in risk factors before and after the outbreak.
 
-[![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/Excel-green?logo=Excel)](#) 
+[![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/Excel-green?logo=Excel)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
 
 ---
 ## Identifying subtypes of early and late onset asthma & the corresponding characteristics
 8 million people in the UK have asthma with age playing an important role in asthma onset. In this project, I identified the risk factors and comorbidity characteristics of early and late onset of asthma as well as distinguishable asthma subtypes using LASSO, K-prototype clustering (with PCA) and random forest for sensitivity analysis. 
+
+[![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
 
 ---
 
@@ -29,13 +31,13 @@ A team project involving simulation of data for a cross-regional case-control st
 
 <img src="assets/img/Screenshot 2023-07-15 at 16.31.35.png?raw=true" alt="Image 1" style="width: 90%; height: auto;">
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/ggplot2-white?logo=ggplot2)](#) [![](https://img.shields.io/badge/dplyr-white?logo=dplyr)](#) [![](https://img.shields.io/badge/tidyverse-blue?logo=tidyverse)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/R-blue?logo=R)](#) 
 
 ### 2. Epidemiology and Lifestyle Determinants of High Blood Pressure in the USA
 High blood pressure is a major issue in the USA. Nearly 50% of adults have hypertension. Research is important to establish relationships between certain factors and hypertension, allowing epidemiologists to provide advice on possible ways to mitigate the issue. 
 
 <img src="assets/img/Screenshot 2023-07-15 at 17.44.10.png?raw=true" alt="Image 1" style="width: 90%; height: auto;">
 
-[![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/ggplot2-white?logo=ggplot2)](#) [![](https://img.shields.io/badge/dplyr-white?logo=dplyr)](#) [![](https://img.shields.io/badge/tidyverse-blue?logo=tidyverse)](#) 
+[![](https://img.shields.io/badge/R-blue?logo=R)](#) 
 
 
