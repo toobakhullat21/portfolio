@@ -1,5 +1,13 @@
 # Selected projects in data science, maching learning and statistical analysis
 ---
+## School finder system
+According to a 2021 survey, many parents often struggle finding the right school for their children that meets all their needs. In this project I built a recommender system using XGBoost classifier and a user interface to satisfy practicality and a seamless user experience. (more description to follow soon)
+
+ <a href="https://github.com/toobakhullat21/school-finder">View code on GitHub</a>
+ 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#)
+
+---
 ## Predicting thoracic disorders from chest X-ray images
 Clinical diagnosis still remains challenging to this day. Human error can hinder clinical interpretations due to fatigue, reader inexperience etc. In this project, I built a deep learning classifier using PyTorch to fine-tune a VGG-19 model assisting radiologists in making accurate decisions.
 
@@ -17,7 +25,7 @@ In this project, I used the latest exchange rates to convert a given amount in t
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)](#) [![](https://img.shields.io/badge/AWS-white?logo=AWS)](#)
 
 ---
-## 2. Data Visualisation Dashboards
+## Data Visualisation Dashboards
 In these projects, I used Shiny to develop and deploy interactive dashboards containing graphical interpretations of complex data.
 
  <a href="https://microsimulationvalidationdashboard.shinyapps.io/AZMortalityValidations/">View Dashboard 1</a>
