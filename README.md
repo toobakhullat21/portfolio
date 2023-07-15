@@ -9,12 +9,17 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HPC-white?logo=HPC)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=Anaconda)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
 
 ---
-## Identifying the health impacts of the COVID pandemic
+## Identifying the health impacts of the COVID-19 pandemic
 In 2020, COVID-19 was the leading cause of death in England and Wales, accounting for 12.1% of all deaths. In this project using the UK BioBank data, I identified participants who have been diagnosed with COVID-19 and explored post-infection hospitalisation and death records summarizing the most common diagnosis. I then compared changes in the weighting of these diagnosis and changes in risk factors before and after the outbreak.
 
 [![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/Excel-green?logo=Excel)](#) 
 
 ---
+## Identifying subtypes of early and late onset asthma & the corresponding characteristics
+8 million people in the UK have asthma with age playing an important role in asthma onset. In this project, I identified the risk factors and comorbidity characteristics of early and late onset of asthma as well as distinguishable asthma subtypes using LASSO, K-prototype clustering (with PCA) and random forest for sensitivity analysis. 
+
+---
+
 ## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
