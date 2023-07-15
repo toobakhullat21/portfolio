@@ -11,4 +11,8 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 
 ---
 
-## Data Simulation
+## Skills-based projects
+A selection of smaller projects demonstrating specific data science and ML skills.
+<br><br>
+- Data Simulation <a href="https://github.com/Jelive791/CDM-Data-Simulation/blob/main/name_and_city_simulation/name_n_city_simulation.py">View code on GitHub</a>
+
