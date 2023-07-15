@@ -13,5 +13,5 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 
 ## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
-- Data Simulation: A group project involving simulation of data for a cross-regional case-control study of disease X among men. <a href="https://github.com/Jelive791/CDM-Data-Simulation/blob/main/name_and_city_simulation/name_n_city_simulation.py">View code on GitHub</a>
+- Data Simulation: A team project involving simulation of data for a cross-regional case-control study of disease X among men. -> <a href="https://github.com/Jelive791/CDM-Data-Simulation/blob/main/name_and_city_simulation/name_n_city_simulation.py">View code on GitHub</a>
 
