@@ -1,6 +1,5 @@
 # Selected projects in data science, maching learning and statistical analysis
 ---
-
 ## Predicting thoracic disorders from chest X-ray images
 Clinical diagnosis still remains challenging to this day. Human error can hinder clinical interpretations due to fatigue, reader inexperience etc. In this project, I built a deep learning classifier using PyTorch to fine-tune a VGG-19 model assisting radiologists in making accurate decisions.
 
@@ -10,7 +9,12 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HPC-white?logo=HPC)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=Anaconda)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
 
 ---
+## Identifying the health impacts of the COVID pandemic
+In 2020, COVID-19 was the leading cause of death in England and Wales, accounting for 12.1% of all deaths. In this project using the UK BioBank data, I identified participants who have been diagnosed with COVID-19 and explored post-infection hospitalisation and death records summarizing the most common diagnosis. I then compared changes in the weighting of these diagnosis and changes in risk factors before and after the outbreak.
 
+[![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/Excel-green?logo=Excel)](#) 
+
+---
 ## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
