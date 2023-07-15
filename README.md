@@ -15,6 +15,11 @@ In 2020, COVID-19 was the leading cause of death in England and Wales, accountin
 [![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/Excel-green?logo=Excel)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
 
 ---
+## Clinical and genetic predictors of breast cancer survival
+My motivation behind this project was to identify the best way to detect and treat breast cancer, in order to improve the quality of life of breast cancer patients. Utilising Kaplan Meier to estimate survival following diagnosis, identifying the most important clinical prognostic indicators using cox regression and answering the critical questions such as "Is type of treatment associated with breast cancer survival" using multiple cox regression model, chi-squared test, global schoenfeld test to satisfy the proportional hazards assumption.
+
+---
+
 ## Identifying subtypes of early and late onset asthma & the corresponding characteristics
 8 million people in the UK have asthma with age playing an important role in asthma onset. In this project, I identified the risk factors and comorbidity characteristics of early and late onset of asthma as well as distinguishable asthma subtypes using LASSO, K-prototype clustering (with PCA) and random forest for sensitivity analysis. 
 
