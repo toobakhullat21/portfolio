@@ -19,6 +19,7 @@ In 2020, COVID-19 was the leading cause of death in England and Wales, accountin
 My motivation behind this project was to identify the best way to detect and treat breast cancer, in order to improve the quality of life of breast cancer patients. Utilising Kaplan Meier to estimate survival following diagnosis, identifying the most important clinical prognostic indicators using cox regression and answering the critical questions such as "Is type of treatment associated with breast cancer survival" using multiple cox regression model, chi-squared test, global schoenfeld test to satisfy the proportional hazards assumption.
 
 <img src="assets/img/Picture 1.png?raw=true" alt="Image 1" style="width: 90%; height: auto;">
+[![](https://img.shields.io/badge/R-blue?logo=R)](#)
 
 ---
 
