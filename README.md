@@ -42,7 +42,17 @@ A team project involving simulation of data for a cross-regional case-control st
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/R-blue?logo=R)](#) 
 
-### 2. Epidemiology and Lifestyle Determinants of High Blood Pressure in the USA
+### 2. Data Visualisation Dashboards
+In these projects, I used Shiny to develop and deploy interactive dashboards containing graphical interpretations of complex data.
+ <a href="https://microsimulationvalidationdashboard.shinyapps.io/AZMortalityValidations/">View Dashboard 1</a>
+ <a href="https://microsimulationvalidationdashboard.shinyapps.io/azmm/">View Dashboard 2</a>
+ <a href=" https://microsimulationvalidationdashboard.shinyapps.io/visualisations/">View Dashboard 3</a>
+
+[![](https://img.shields.io/badge/R-blue?logo=R)](#) 
+
+---
+
+### 3. Epidemiology and Lifestyle Determinants of High Blood Pressure in the USA
 High blood pressure is a major issue in the USA. Nearly 50% of adults have hypertension. Research is important to establish relationships between certain factors and hypertension, allowing epidemiologists to provide advice on possible ways to mitigate the issue. 
 
 <img src="assets/img/Screenshot 2023-07-15 at 17.44.10.png?raw=true" alt="Image 1" style="width: 90%; height: auto;">
