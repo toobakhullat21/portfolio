@@ -10,9 +10,9 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 
 ---
 ## Currency exchange system
-In this project, I use the latest exchange rates to convert a given amount in the source-currency to target-currency using Exchange Rates API. Stores the exchange rates in a PostgreSQL database hosted on AWS.
+In this project, I used the latest exchange rates to convert a given amount in the source-currency to target-currency using Exchange Rates API storing the exchange rates in a PostgreSQL database hosted on AWS.
 
- <a href="https://github.com/toobakhullat21/currency_exchange"View code on GitHub</a>
+ <a href="https://github.com/toobakhullat21/currency_exchange">View code on GitHub</a>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)](#) [![](https://img.shields.io/badge/AWS-white?logo=AWS)](#)
 
