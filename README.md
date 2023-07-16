@@ -1,7 +1,7 @@
 # Selected projects in data science, maching learning and statistical analysis
 ---
 ## School finder system
-According to a 2021 survey, many parents often struggle finding the right school for their children that meets all their needs. In this project I built a recommender system using XGBoost classifier and a user interface to satisfy practicality and a seamless user experience. (more description to follow soon)
+According to a 2021 survey, many parents often struggle finding the right school for their children that meets all their needs. In this project I built a recommender system using XGBoost classifier and a user interface to satisfy practicality and provide a seamless user experience. (more description to follow soon)
 
  <a href="https://github.com/toobakhullat21/school-finder">View code on GitHub</a>
  
@@ -18,7 +18,7 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 
 ---
 ## Currency exchange system
-In this project, I used the latest exchange rates to convert a given amount in the source-currency to target-currency using Exchange Rates API storing the exchange rates in a PostgreSQL database hosted on AWS.
+In this project, I fetched latest exhange rates using REST APIs and stored them in a PostgreSQL database, hosted on AWS RDB. On this, I provided a service that converts an amount from source currency to target currency. Additionally, I added a caching layer to imprpve performance for when the database encounters heavy traffic.
 
  <a href="https://github.com/toobakhullat21/currency_exchange">View code on GitHub</a>
 
