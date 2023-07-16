@@ -2,6 +2,7 @@
 ---
 ## School finder system
 According to The Times 2022, many parents often struggle finding the best school for their children. In this project, I aim to build a recommender system using XGBoost classifier and a user interface to satisfy practicality and provide a seamless user experience. 
+
  <a href="https://github.com/toobakhullat21/school-finder">View code on GitHub</a>
  
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#)
