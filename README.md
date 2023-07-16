@@ -1,7 +1,7 @@
 # Selected projects in data science, maching learning and statistical analysis
 ---
 ## School finder system
-According to a 2021 survey, many parents often struggle finding the right school for their children that meets all their needs. In this project I built a recommender system using XGBoost classifier and a user interface to satisfy practicality and provide a seamless user experience. (more description to follow soon)
+According to a 2021 survey, many parents often struggle finding the right school for their children that meets all their needs. In this project, I aim to build a recommender system using XGBoost classifier and a user interface to satisfy practicality and provide a seamless user experience. (More description to follow soon)
 
  <a href="https://github.com/toobakhullat21/school-finder">View code on GitHub</a>
  
