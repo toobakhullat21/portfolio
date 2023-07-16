@@ -18,7 +18,7 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 
 ---
 ## Currency exchange system
-In this project, I fetched latest exhange rates using REST APIs and stored them in a PostgreSQL database, hosted on AWS RDB. On this, I provided a service that converts an amount from source currency to target currency. Additionally, I added a caching layer to imprpve performance for when the database encounters heavy traffic.
+In this project, I fetched latest exhange rates using REST APIs and stored them in a PostgreSQL database, hosted on AWS RDB. On this, I provided a service that converts an amount from source currency to target currency. Additionally, I added a caching layer to improve performance for when the database encounters heavy traffic.
 
  <a href="https://github.com/toobakhullat21/currency_exchange">View code on GitHub</a>
 
@@ -38,7 +38,7 @@ In these projects, I used Shiny to develop and deploy interactive dashboards con
 
 ---
 ## Identifying the health impacts of the COVID-19 pandemic
-In 2020, COVID-19 was the leading cause of death in England and Wales, accounting for 12.1% of all deaths. In this project using the UK BioBank data, I identified participants who have been diagnosed with COVID-19 and explored post-infection hospitalisation and death records summarizing the most common diagnosis. I then compared changes in the weighting of these diagnosis and changes in risk factors before and after the outbreak.
+In 2020, COVID-19 was the leading cause of death in England and Wales, accounting for 12.1% of all deaths. In this project using the UK BioBank data, I identified participants who have been diagnosed with COVID-19 and explored post-infection hospitalisation and death records summarizing the most common diagnosis. I then compared changes in the weighting of these diagnosis and changes in risk factors before and after the outbreak using a sparse PLS-DA model.
 
 [![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/Excel-green?logo=Excel)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
 
@@ -72,7 +72,7 @@ A team project involving simulation of data for a cross-regional case-control st
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/R-blue?logo=R)](#) 
 
 ### 2. Epidemiology and Lifestyle Determinants of High Blood Pressure in the USA
-High blood pressure is a major issue in the USA. Nearly 50% of adults have hypertension. Research is important to establish relationships between certain factors and hypertension, allowing epidemiologists to provide advice on possible ways to mitigate the issue. 
+High blood pressure is a major issue in the USA. Nearly 50% of adults have hypertension. This project uses linear regression and t-tests to establish relationships between certain factors and hypertension, allowing epidemiologists to provide advice on possible ways to mitigate the issue. 
 
 <img src="assets/img/Screenshot 2023-07-15 at 17.44.10.png?raw=true" alt="Image 1" style="width: 90%; height: auto;">
 
