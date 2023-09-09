@@ -42,7 +42,7 @@ In these projects, I used Shiny to develop and deploy interactive dashboards con
 ## Identifying the health impacts of the COVID-19 pandemic
 In 2020, COVID-19 was the leading cause of death in England and Wales, accounting for 12.1% of all deaths. In this project using the UK BioBank data, I identified participants who have been diagnosed with COVID-19 and explored post-infection hospitalisation and death records summarizing the most common diagnosis. I then compared changes in the weighting of these diagnosis and changes in risk factors before and after the outbreak using a sparse PLS-DA model.
 
-[![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/Excel?logo=Excel)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
+[![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/Excel-white?logo=Excel)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
 
 ---
 ## Clinical and genetic predictors of breast cancer survival
