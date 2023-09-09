@@ -1,6 +1,15 @@
 # Selected projects in data science, maching learning and statistical analysis
 ---
 
+## KPMG Virtual Data Analytics Internship 
+In today's competitive landscape, understanding customer base is paramount to success. By targeting high-value customers through meticulous analysis of demographics and attributes, I unlocked a goldmine of potential and presented this on an interactive Power BI dashboard. My approach not only boosts revenue but also cultivates enduring loyalty, ultimately solidifying KPMG position as a market leader. 
+
+<img src="assets/img/Screenshot 2023-09-09 at 20.36.08.png?raw=true" alt="Image 1" style="width: 90%; height: auto;">
+
+<a href="https://github.com/toobakhullat21/KPMG_virtual_internship">View code on GitHub</a>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=Anaconda)](#) [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#) [![](https://img.shields.io/badge/Excel-white?logo=Excel)](#)
+
 ## Predicting thoracic disorders from chest X-ray images
 Clinical diagnosis still remains challenging to this day. Human error can hinder clinical interpretations due to fatigue, reader inexperience etc. In this project, I built a deep learning classifier using PyTorch to fine-tune a VGG-19 model assisting radiologists in making accurate decisions.
 
