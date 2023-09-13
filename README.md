@@ -1,6 +1,11 @@
 # Selected projects in data science, maching learning and statistical analysis
 ---
+## JPMorgan Chase Commercial Banking Internship
+In this job simulation, I performed a detailed analysis of a company's financial statements, using MS Excel to create a comprehensive financial summary. This initial step in the credit evaluation process provided key insights into the company's financial health. I also gained valuable experience in assessing and quantifying business risks, including those related to revenue generation, customer concentration, and acquisitions. Additionally, I utilized industry analysis tools like Porter's five forces and SWOT analysis to understand industry dynamics and associated risks. This simulation highlighted the importance of collateral, risks, mitigants, and covenants in deal structuring, culminating in a thorough collateral analysis. I then used these analyses to develop a 10-year financial forecast. This experience has significantly enhanced my proficiency in corporate credit analysis.
 
+[![](https://img.shields.io/badge/Excel-white?logo=Excel)](#) [![](https://img.shields.io/badge/PowerPoint-white?logo=PowerPoint)](#)
+
+---
 ## KPMG Virtual Data Analytics Internship 
 In today's competitive landscape, understanding customer base is paramount to success. By targeting high-value customers through meticulous analysis of demographics and attributes, I unlocked a goldmine of potential and presented this on an interactive Power BI dashboard. My approach not only boosts revenue but also cultivates enduring loyalty, ultimately solidifying KPMG position as a market leader. 
 
@@ -10,6 +15,16 @@ In today's competitive landscape, understanding customer base is paramount to su
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=Anaconda)](#) [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#) [![](https://img.shields.io/badge/Excel-white?logo=Excel)](#)
 
+---
+## Currency Exchange System
+In this project, I fetched latest exhange rates using REST APIs and stored them in a PostgreSQL database, hosted on AWS RDB. On this, I provided a service that converts an amount from source currency to target currency. Additionally, I added a caching layer to improve performance for when the database encounters heavy traffic.
+
+ <a href="https://github.com/toobakhullat21/currency_exchange">View code on GitHub</a>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)](#) [![](https://img.shields.io/badge/AWS-white?logo=AWS)](#)
+
+---
+
 ## Predicting thoracic disorders from chest X-ray images
 Clinical diagnosis still remains challenging to this day. Human error can hinder clinical interpretations due to fatigue, reader inexperience etc. In this project, I built a deep learning classifier using PyTorch to fine-tune a VGG-19 model assisting radiologists in making accurate decisions.
 
@@ -17,14 +32,6 @@ Clinical diagnosis still remains challenging to this day. Human error can hinder
 <img src="assets/img/Screenshot 2023-07-14 at 17.01.22.png?raw=true" alt="Image 2" style="width: 90%; height: auto;">
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HPC-white?logo=HPC)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=Anaconda)](#) [![](https://img.shields.io/badge/Bash-white?logo=Bash)](#)
-
----
-## Currency exchange system
-In this project, I fetched latest exhange rates using REST APIs and stored them in a PostgreSQL database, hosted on AWS RDB. On this, I provided a service that converts an amount from source currency to target currency. Additionally, I added a caching layer to improve performance for when the database encounters heavy traffic.
-
- <a href="https://github.com/toobakhullat21/currency_exchange">View code on GitHub</a>
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GitHub-black?logo=GitHub)](#) [![](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)](#) [![](https://img.shields.io/badge/AWS-white?logo=AWS)](#)
 
 ---
 ## Data Visualisation Dashboards
